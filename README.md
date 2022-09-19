@@ -40,7 +40,7 @@ function myFunction(p1, p2) {
 ## Strong emphasis, aka bold, with **asterisks** or **underscores**. 
 ## Combined emphasis with **asterisks and *underscores***. 
 ## Strikethrough uses two tildes. ~Scratch this.~
-###
+***
 ## 1. First ordered list item 
 ## 2. Another item 
 ##     ..* Unordered sub-list. 
